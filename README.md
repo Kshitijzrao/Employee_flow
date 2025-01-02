@@ -1,7 +1,7 @@
 # Employee_flow
 Use Struct in Cadence in Flow
 
-This Flow program is a simple program that demonstrates the basic syntax and functionality of the struct in cadence programming language. The purpose of this program is to show how to use struct in cadence.
+This Flow program is a simple program that demonstrates the basic syntax and functionality of the struct in cadence programming language. The purpose of this program is to show how to use struct in cadence to write a smart contract.
 
 ## Description
 

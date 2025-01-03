@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e2f60a0-099a-4384-8ad4-052141e276df)# Employee_flow
+# Employee_flow
 Use Struct functionality in Cadence Flow to store data of employee in dictionary
 
 This Flow program is a simple program that demonstrates the basic syntax and functionality of the struct in cadence programming language. The purpose of this program is to show how to use struct in cadence to write a smart contract.
